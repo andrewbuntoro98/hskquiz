@@ -1,0 +1,1517 @@
+[
+    {
+        "hanzi": "我",
+        "pinyin": "wǒ",
+        "meaning": "I, me"
+    },
+    {
+        "hanzi": "我们",
+        "pinyin": "wǒmen",
+        "meaning": "we, us (pl.)"
+    },
+    {
+        "hanzi": "你",
+        "pinyin": "nǐ",
+        "meaning": "you"
+    },
+    {
+        "hanzi": "你们",
+        "pinyin": "nǐmen",
+        "meaning": "you (pl.)"
+    },
+    {
+        "hanzi": "他",
+        "pinyin": "tā",
+        "meaning": "he, him"
+    },
+    {
+        "hanzi": "她",
+        "pinyin": "tā",
+        "meaning": "she, her"
+    },
+    {
+        "hanzi": "他们",
+        "pinyin": "tāmen",
+        "meaning": "they (male+female)"
+    },
+    {
+        "hanzi": "她们",
+        "pinyin": "tāmen",
+        "meaning": "they (females, pl.)"
+    },
+    {
+        "hanzi": "这 (这儿)",
+        "pinyin": "zhè (zhèr)",
+        "meaning": "here, this"
+    },
+    {
+        "hanzi": "那 (那儿)",
+        "pinyin": "nà (nàr)",
+        "meaning": "there, that"
+    },
+    {
+        "hanzi": "哪 (哪儿)",
+        "pinyin": "nǎ (nǎr)",
+        "meaning": "where"
+    },
+    {
+        "hanzi": "谁",
+        "pinyin": "shéi",
+        "meaning": "who"
+    },
+    {
+        "hanzi": "什么",
+        "pinyin": "shénme",
+        "meaning": "what, why"
+    },
+    {
+        "hanzi": "多少",
+        "pinyin": "duōshǎo",
+        "meaning": "how many, how much"
+    },
+    {
+        "hanzi": "几",
+        "pinyin": "jǐ",
+        "meaning": "a few, how many"
+    },
+    {
+        "hanzi": "怎么",
+        "pinyin": "zěnme",
+        "meaning": "how"
+    },
+    {
+        "hanzi": "怎么样",
+        "pinyin": "zěnmeyàng",
+        "meaning": "how about"
+    },
+    {
+        "hanzi": "您",
+        "pinyin": "nín",
+        "meaning": "you"
+    },
+    {
+        "hanzi": "它",
+        "pinyin": "tā",
+        "meaning": "it"
+    },
+    {
+        "hanzi": "大家",
+        "pinyin": "dàjiā",
+        "meaning": "everyone"
+    },
+    {
+        "hanzi": "每",
+        "pinyin": "měi",
+        "meaning": "every"
+    },
+    {
+        "hanzi": "为什么",
+        "pinyin": "wèishénme",
+        "meaning": "why"
+    },
+    {
+        "hanzi": "一",
+        "pinyin": "yī",
+        "meaning": "one"
+    },
+    {
+        "hanzi": "二",
+        "pinyin": "èr",
+        "meaning": "two"
+    },
+    {
+        "hanzi": "三",
+        "pinyin": "sān",
+        "meaning": "three"
+    },
+    {
+        "hanzi": "四",
+        "pinyin": "sì",
+        "meaning": "four"
+    },
+    {
+        "hanzi": "五",
+        "pinyin": "wǔ",
+        "meaning": "five"
+    },
+    {
+        "hanzi": "六",
+        "pinyin": "liù",
+        "meaning": "six"
+    },
+    {
+        "hanzi": "七",
+        "pinyin": "qī",
+        "meaning": "seven"
+    },
+    {
+        "hanzi": "八",
+        "pinyin": "bā",
+        "meaning": "eight"
+    },
+    {
+        "hanzi": "九",
+        "pinyin": "jiǔ",
+        "meaning": "nine"
+    },
+    {
+        "hanzi": "十",
+        "pinyin": "shí",
+        "meaning": "ten"
+    },
+    {
+        "hanzi": "零",
+        "pinyin": "líng",
+        "meaning": "zero"
+    },
+    {
+        "hanzi": "两",
+        "pinyin": "liǎng",
+        "meaning": "two"
+    },
+    {
+        "hanzi": "百",
+        "pinyin": "bǎi",
+        "meaning": "hundred"
+    },
+    {
+        "hanzi": "千",
+        "pinyin": "qiān",
+        "meaning": "thousand"
+    },
+    {
+        "hanzi": "第一",
+        "pinyin": "dìyī",
+        "meaning": "first"
+    },
+    {
+        "hanzi": "个",
+        "pinyin": "gè",
+        "meaning": "one, a, an"
+    },
+    {
+        "hanzi": "岁",
+        "pinyin": "suì",
+        "meaning": "year"
+    },
+    {
+        "hanzi": "本",
+        "pinyin": "běn",
+        "meaning": "volume"
+    },
+    {
+        "hanzi": "些",
+        "pinyin": "xiē",
+        "meaning": "some"
+    },
+    {
+        "hanzi": "块",
+        "pinyin": "kuài",
+        "meaning": "piece"
+    },
+    {
+        "hanzi": "次",
+        "pinyin": "cì",
+        "meaning": "number"
+    },
+    {
+        "hanzi": "公斤",
+        "pinyin": "gōngjīn",
+        "meaning": "kilogram"
+    },
+    {
+        "hanzi": "元",
+        "pinyin": "yuán",
+        "meaning": "yuan"
+    },
+    {
+        "hanzi": "件",
+        "pinyin": "jiàn",
+        "meaning": "piece"
+    },
+    {
+        "hanzi": "张",
+        "pinyin": "zhāng",
+        "meaning": "sheet"
+    },
+    {
+        "hanzi": "不",
+        "pinyin": "bù",
+        "meaning": "no"
+    },
+    {
+        "hanzi": "没",
+        "pinyin": "méi",
+        "meaning": "no"
+    },
+    {
+        "hanzi": "很",
+        "pinyin": "hěn",
+        "meaning": "quite, very"
+    },
+    {
+        "hanzi": "太",
+        "pinyin": "tài",
+        "meaning": "too"
+    },
+    {
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "meaning": "all"
+    },
+    {
+        "hanzi": "别",
+        "pinyin": "bié",
+        "meaning": "other"
+    },
+    {
+        "hanzi": "非常",
+        "pinyin": "fēicháng",
+        "meaning": "very"
+    },
+    {
+        "hanzi": "也",
+        "pinyin": "yě",
+        "meaning": "likewise"
+    },
+    {
+        "hanzi": "还",
+        "pinyin": "hái",
+        "meaning": "repay"
+    },
+    {
+        "hanzi": "最",
+        "pinyin": "zuì",
+        "meaning": "most"
+    },
+    {
+        "hanzi": "真",
+        "pinyin": "zhēn",
+        "meaning": "real"
+    },
+    {
+        "hanzi": "正在",
+        "pinyin": "zhèngzài",
+        "meaning": "be being"
+    },
+    {
+        "hanzi": "已经",
+        "pinyin": "yǐjīng",
+        "meaning": "already"
+    },
+    {
+        "hanzi": "一起",
+        "pinyin": "yìqǐ",
+        "meaning": "together"
+    },
+    {
+        "hanzi": "再",
+        "pinyin": "zài",
+        "meaning": "again"
+    },
+    {
+        "hanzi": "就",
+        "pinyin": "jiǜ",
+        "meaning": "at once"
+    },
+    {
+        "hanzi": "和",
+        "pinyin": "hé",
+        "meaning": "and"
+    },
+    {
+        "hanzi": "因为",
+        "pinyin": "yīnwèi",
+        "meaning": "because"
+    },
+    {
+        "hanzi": "所以",
+        "pinyin": "suǒyǐ",
+        "meaning": "so"
+    },
+    {
+        "hanzi": "但是",
+        "pinyin": "dànshì",
+        "meaning": "but"
+    },
+    {
+        "hanzi": "在",
+        "pinyin": "zài",
+        "meaning": "in, at"
+    },
+    {
+        "hanzi": "从",
+        "pinyin": "cóng",
+        "meaning": "from"
+    },
+    {
+        "hanzi": "对",
+        "pinyin": "duì",
+        "meaning": "right"
+    },
+    {
+        "hanzi": "此",
+        "pinyin": "cǐ",
+        "meaning": "this"
+    },
+    {
+        "hanzi": "向",
+        "pinyin": "xiàng",
+        "meaning": "towards"
+    },
+    {
+        "hanzi": "离",
+        "pinyin": "lí",
+        "meaning": "leave"
+    },
+    {
+        "hanzi": "的",
+        "pinyin": "de",
+        "meaning": "(possessive particle)"
+    },
+    {
+        "hanzi": "了",
+        "pinyin": "le",
+        "meaning": "(completed action particle)"
+    },
+    {
+        "hanzi": "吗",
+        "pinyin": "ma",
+        "meaning": "(question particle)"
+    },
+    {
+        "hanzi": "呢",
+        "pinyin": "ne",
+        "meaning": "(rhetorical particle)"
+    },
+    {
+        "hanzi": "得",
+        "pinyin": "de",
+        "meaning": ""
+    },
+    {
+        "hanzi": "着",
+        "pinyin": "zhe",
+        "meaning": ""
+    },
+    {
+        "hanzi": "过",
+        "pinyin": "guo",
+        "meaning": ""
+    },
+    {
+        "hanzi": "吧",
+        "pinyin": "ba",
+        "meaning": ""
+    },
+    {
+        "hanzi": "喂",
+        "pinyin": "wèi",
+        "meaning": "hello"
+    },
+    {
+        "hanzi": "家",
+        "pinyin": "jiā",
+        "meaning": "home"
+    },
+    {
+        "hanzi": "学校",
+        "pinyin": "xuéxiào",
+        "meaning": "school"
+    },
+    {
+        "hanzi": "饭馆",
+        "pinyin": "fàn guǎn",
+        "meaning": "restaunt"
+    },
+    {
+        "hanzi": "商店",
+        "pinyin": "shāngdiàn",
+        "meaning": "store"
+    },
+    {
+        "hanzi": "医院",
+        "pinyin": "yīyuàn",
+        "meaning": "hospital"
+    },
+    {
+        "hanzi": "火车站",
+        "pinyin": "huǒchēzhàn",
+        "meaning": "train station"
+    },
+    {
+        "hanzi": "中国",
+        "pinyin": "zhōngguó",
+        "meaning": "China"
+    },
+    {
+        "hanzi": "机场",
+        "pinyin": "jīchǎng",
+        "meaning": "airport"
+    },
+    {
+        "hanzi": "教室",
+        "pinyin": "jiàoshì",
+        "meaning": "classroom"
+    },
+    {
+        "hanzi": "房间",
+        "pinyin": "fángjiān",
+        "meaning": "room"
+    },
+    {
+        "hanzi": "路",
+        "pinyin": "lù",
+        "meaning": "road"
+    },
+    {
+        "hanzi": "北京",
+        "pinyin": "běijīng",
+        "meaning": "Beijing"
+    },
+    {
+        "hanzi": "上",
+        "pinyin": "shàng",
+        "meaning": "up"
+    },
+    {
+        "hanzi": "下",
+        "pinyin": "xià",
+        "meaning": "below"
+    },
+    {
+        "hanzi": "前面",
+        "pinyin": "qiánmiàn",
+        "meaning": "front"
+    },
+    {
+        "hanzi": "后面",
+        "pinyin": "hòumiàn",
+        "meaning": "behind"
+    },
+    {
+        "hanzi": "左边",
+        "pinyin": "zuǒbiān",
+        "meaning": "left"
+    },
+    {
+        "hanzi": "右边",
+        "pinyin": "yòubiān",
+        "meaning": "right"
+    },
+    {
+        "hanzi": "外",
+        "pinyin": "wài",
+        "meaning": "out"
+    },
+    {
+        "hanzi": "旁边",
+        "pinyin": "pángbiān",
+        "meaning": "side"
+    },
+    {
+        "hanzi": "里",
+        "pinyin": "lǐmiàn",
+        "meaning": "inside"
+    },
+    {
+        "hanzi": "今天",
+        "pinyin": "jīntiān",
+        "meaning": "today"
+    },
+    {
+        "hanzi": "明天",
+        "pinyin": "míngtiān",
+        "meaning": "tomorrow"
+    },
+    {
+        "hanzi": "昨天",
+        "pinyin": "zuótiān",
+        "meaning": "yesterday"
+    },
+    {
+        "hanzi": "上午",
+        "pinyin": "shàngwǔ",
+        "meaning": "morning"
+    },
+    {
+        "hanzi": "中午",
+        "pinyin": "zhōngwǔ",
+        "meaning": "noon"
+    },
+    {
+        "hanzi": "下午",
+        "pinyin": "xiàwǔ",
+        "meaning": "afternoon"
+    },
+    {
+        "hanzi": "年",
+        "pinyin": "nián",
+        "meaning": "year"
+    },
+    {
+        "hanzi": "月",
+        "pinyin": "yuè",
+        "meaning": "month"
+    },
+    {
+        "hanzi": "日",
+        "pinyin": "rì",
+        "meaning": "day"
+    },
+    {
+        "hanzi": "星期",
+        "pinyin": "xīngqī",
+        "meaning": "week"
+    },
+    {
+        "hanzi": "点",
+        "pinyin": "diǎn",
+        "meaning": "dot, spot"
+    },
+    {
+        "hanzi": "分钟",
+        "pinyin": "fēnzhōng",
+        "meaning": "minute"
+    },
+    {
+        "hanzi": "现在",
+        "pinyin": "xiànzài",
+        "meaning": "now"
+    },
+    {
+        "hanzi": "时候",
+        "pinyin": "shíhóu",
+        "meaning": "time"
+    },
+    {
+        "hanzi": "早上",
+        "pinyin": "zǎoshàng",
+        "meaning": "morning"
+    },
+    {
+        "hanzi": "晚上",
+        "pinyin": "wǎnshàng",
+        "meaning": "night"
+    },
+    {
+        "hanzi": "小时",
+        "pinyin": "xiǎoshí",
+        "meaning": "hour"
+    },
+    {
+        "hanzi": "时间",
+        "pinyin": "shíjiān",
+        "meaning": "time"
+    },
+    {
+        "hanzi": "去年",
+        "pinyin": "qùnián",
+        "meaning": "last year"
+    },
+    {
+        "hanzi": "号",
+        "pinyin": "hào",
+        "meaning": "number"
+    },
+    {
+        "hanzi": "生日",
+        "pinyin": "shēngrì",
+        "meaning": "birthday"
+    },
+    {
+        "hanzi": "爸爸",
+        "pinyin": "bàba",
+        "meaning": "father"
+    },
+    {
+        "hanzi": "妈妈",
+        "pinyin": "māma",
+        "meaning": "mother"
+    },
+    {
+        "hanzi": "儿子",
+        "pinyin": "érzi",
+        "meaning": "son"
+    },
+    {
+        "hanzi": "女儿",
+        "pinyin": "nǚér",
+        "meaning": "daughter"
+    },
+    {
+        "hanzi": "老师",
+        "pinyin": "lǎoshī",
+        "meaning": "teacher"
+    },
+    {
+        "hanzi": "学生",
+        "pinyin": "xuéshēng",
+        "meaning": "student"
+    },
+    {
+        "hanzi": "同学",
+        "pinyin": "tóngxué",
+        "meaning": "shoolmate"
+    },
+    {
+        "hanzi": "朋友",
+        "pinyin": "péngyǒu",
+        "meaning": "friend"
+    },
+    {
+        "hanzi": "医生",
+        "pinyin": "yīshēng",
+        "meaning": "doctor"
+    },
+    {
+        "hanzi": "先生",
+        "pinyin": "xiānshēng",
+        "meaning": "sir"
+    },
+    {
+        "hanzi": "小姐",
+        "pinyin": "xiǎojiě",
+        "meaning": "Miss"
+    },
+    {
+        "hanzi": "哥哥",
+        "pinyin": "gēge",
+        "meaning": "brother"
+    },
+    {
+        "hanzi": "姐姐",
+        "pinyin": "jiějie",
+        "meaning": "sister"
+    },
+    {
+        "hanzi": "弟弟",
+        "pinyin": "dìdi",
+        "meaning": "younger brother"
+    },
+    {
+        "hanzi": "妹妹",
+        "pinyin": "mèimei",
+        "meaning": "sis"
+    },
+    {
+        "hanzi": "丈夫",
+        "pinyin": "zhàngfu",
+        "meaning": "husband"
+    },
+    {
+        "hanzi": "妻子",
+        "pinyin": "qīzi",
+        "meaning": "wife"
+    },
+    {
+        "hanzi": "孩子",
+        "pinyin": "háizi",
+        "meaning": "child"
+    },
+    {
+        "hanzi": "男人",
+        "pinyin": "nánrén",
+        "meaning": "man"
+    },
+    {
+        "hanzi": "女人",
+        "pinyin": "nǚrén",
+        "meaning": "woman"
+    },
+    {
+        "hanzi": "服务员",
+        "pinyin": "fúwùyuán",
+        "meaning": "waiter"
+    },
+    {
+        "hanzi": "衣服",
+        "pinyin": "yīfu",
+        "meaning": "cloth"
+    },
+    {
+        "hanzi": "水",
+        "pinyin": "shuǐ",
+        "meaning": "water"
+    },
+    {
+        "hanzi": "菜",
+        "pinyin": "cài",
+        "meaning": "vegetable"
+    },
+    {
+        "hanzi": "米饭",
+        "pinyin": "mǐfàn",
+        "meaning": "rice"
+    },
+    {
+        "hanzi": "水果",
+        "pinyin": "shuǐguǒ",
+        "meaning": "fruit"
+    },
+    {
+        "hanzi": "苹果",
+        "pinyin": "píngguǒ",
+        "meaning": "apple"
+    },
+    {
+        "hanzi": "茶",
+        "pinyin": "chá",
+        "meaning": "tea"
+    },
+    {
+        "hanzi": "杯子",
+        "pinyin": "bēizi",
+        "meaning": "cup"
+    },
+    {
+        "hanzi": "钱",
+        "pinyin": "qián",
+        "meaning": "money"
+    },
+    {
+        "hanzi": "飞机",
+        "pinyin": "fēijī",
+        "meaning": "airplane"
+    },
+    {
+        "hanzi": "出租车",
+        "pinyin": "chūzūchē",
+        "meaning": "taxi"
+    },
+    {
+        "hanzi": "电视",
+        "pinyin": "diànshì",
+        "meaning": "television"
+    },
+    {
+        "hanzi": "电脑",
+        "pinyin": "diànnǎo",
+        "meaning": "computer"
+    },
+    {
+        "hanzi": "电影",
+        "pinyin": "diànyǐng",
+        "meaning": "movie"
+    },
+    {
+        "hanzi": "天气",
+        "pinyin": "tiānqì",
+        "meaning": "weather"
+    },
+    {
+        "hanzi": "猫",
+        "pinyin": "māo",
+        "meaning": "cat"
+    },
+    {
+        "hanzi": "狗",
+        "pinyin": "gǒu",
+        "meaning": "dog"
+    },
+    {
+        "hanzi": "东西",
+        "pinyin": "dōngxī",
+        "meaning": "thing"
+    },
+    {
+        "hanzi": "鱼",
+        "pinyin": "yú",
+        "meaning": "fish"
+    },
+    {
+        "hanzi": "羊肉",
+        "pinyin": "yángròu",
+        "meaning": "mutton"
+    },
+    {
+        "hanzi": "牛奶",
+        "pinyin": "niúnǎi",
+        "meaning": "milk"
+    },
+    {
+        "hanzi": "鸡蛋",
+        "pinyin": "jīdàn",
+        "meaning": "egg"
+    },
+    {
+        "hanzi": "西瓜",
+        "pinyin": "xīguā",
+        "meaning": "watermelon"
+    },
+    {
+        "hanzi": "咖啡",
+        "pinyin": "kāfēi",
+        "meaning": "coffee"
+    },
+    {
+        "hanzi": "自行车",
+        "pinyin": "zìxíngchē",
+        "meaning": "bike"
+    },
+    {
+        "hanzi": "船",
+        "pinyin": "chuán",
+        "meaning": "boat"
+    },
+    {
+        "hanzi": "雪",
+        "pinyin": "xué",
+        "meaning": "snow"
+    },
+    {
+        "hanzi": "药",
+        "pinyin": "yào",
+        "meaning": "medicine"
+    },
+    {
+        "hanzi": "手机",
+        "pinyin": "shǒujī",
+        "meaning": "phone"
+    },
+    {
+        "hanzi": "手表",
+        "pinyin": "shǒubiǎo",
+        "meaning": "watch"
+    },
+    {
+        "hanzi": "眼睛",
+        "pinyin": "yǎnjīng",
+        "meaning": "eye"
+    },
+    {
+        "hanzi": "身体",
+        "pinyin": "shēntǐ",
+        "meaning": "body"
+    },
+    {
+        "hanzi": "公共汽车",
+        "pinyin": "gōnggòngqìchē",
+        "meaning": "bus"
+    },
+    {
+        "hanzi": "报纸",
+        "pinyin": "bàozhǐ",
+        "meaning": "newspaper"
+    },
+    {
+        "hanzi": "人",
+        "pinyin": "rén",
+        "meaning": "person"
+    },
+    {
+        "hanzi": "名字",
+        "pinyin": "míngzi",
+        "meaning": "name"
+    },
+    {
+        "hanzi": "书",
+        "pinyin": "shū",
+        "meaning": "book"
+    },
+    {
+        "hanzi": "汉语",
+        "pinyin": "hànyǔ",
+        "meaning": "Chinese"
+    },
+    {
+        "hanzi": "字",
+        "pinyin": "zì",
+        "meaning": "character"
+    },
+    {
+        "hanzi": "桌子",
+        "pinyin": "zhuōōzi",
+        "meaning": "desk"
+    },
+    {
+        "hanzi": "椅子",
+        "pinyin": "yǐzi",
+        "meaning": "chair"
+    },
+    {
+        "hanzi": "门",
+        "pinyin": "mén",
+        "meaning": "door"
+    },
+    {
+        "hanzi": "题",
+        "pinyin": "tí",
+        "meaning": "topic"
+    },
+    {
+        "hanzi": "课",
+        "pinyin": "kè",
+        "meaning": "lesson"
+    },
+    {
+        "hanzi": "姓",
+        "pinyin": "xìng",
+        "meaning": "surname"
+    },
+    {
+        "hanzi": "问题",
+        "pinyin": "wèntí",
+        "meaning": "question"
+    },
+    {
+        "hanzi": "事情",
+        "pinyin": "shìqing",
+        "meaning": "matter"
+    },
+    {
+        "hanzi": "考试",
+        "pinyin": "kǎoshì",
+        "meaning": "exam"
+    },
+    {
+        "hanzi": "票",
+        "pinyin": "piào",
+        "meaning": "ticket"
+    },
+    {
+        "hanzi": "意思",
+        "pinyin": "yìsi",
+        "meaning": "meaning"
+    },
+    {
+        "hanzi": "颜色",
+        "pinyin": "yánsè",
+        "meaning": "color"
+    },
+    {
+        "hanzi": "Verb",
+        "pinyin": "",
+        "meaning": ""
+    },
+    {
+        "hanzi": "谢谢",
+        "pinyin": "xièxiè",
+        "meaning": "thank"
+    },
+    {
+        "hanzi": "不客气",
+        "pinyin": "búkèqì",
+        "meaning": "you are welcome"
+    },
+    {
+        "hanzi": "再见",
+        "pinyin": "zàijiàn",
+        "meaning": "good-bye"
+    },
+    {
+        "hanzi": "请",
+        "pinyin": "qǐng",
+        "meaning": "please"
+    },
+    {
+        "hanzi": "对不起",
+        "pinyin": "duìbùqǐ",
+        "meaning": "sorry"
+    },
+    {
+        "hanzi": "没关系",
+        "pinyin": "méiguānxì",
+        "meaning": "It doesn’t matter"
+    },
+    {
+        "hanzi": "欢迎",
+        "pinyin": "huānyíng",
+        "meaning": "welcome"
+    },
+    {
+        "hanzi": "是",
+        "pinyin": "shì",
+        "meaning": "am, is, are"
+    },
+    {
+        "hanzi": "有",
+        "pinyin": "yǒu",
+        "meaning": "have"
+    },
+    {
+        "hanzi": "看",
+        "pinyin": "kàn",
+        "meaning": "look"
+    },
+    {
+        "hanzi": "听",
+        "pinyin": "tīng",
+        "meaning": "listen"
+    },
+    {
+        "hanzi": "说话",
+        "pinyin": "shuōhuà",
+        "meaning": "speak"
+    },
+    {
+        "hanzi": "读",
+        "pinyin": "dú",
+        "meaning": "read"
+    },
+    {
+        "hanzi": "写",
+        "pinyin": "xiě",
+        "meaning": "write"
+    },
+    {
+        "hanzi": "看见",
+        "pinyin": "kànjiàn",
+        "meaning": "see"
+    },
+    {
+        "hanzi": "叫",
+        "pinyin": "jiào",
+        "meaning": "call"
+    },
+    {
+        "hanzi": "来",
+        "pinyin": "lái",
+        "meaning": "come"
+    },
+    {
+        "hanzi": "回",
+        "pinyin": "huí",
+        "meaning": "return"
+    },
+    {
+        "hanzi": "去",
+        "pinyin": "qù",
+        "meaning": "go"
+    },
+    {
+        "hanzi": "吃",
+        "pinyin": "chī",
+        "meaning": "eat"
+    },
+    {
+        "hanzi": "喝",
+        "pinyin": "hē",
+        "meaning": "drink"
+    },
+    {
+        "hanzi": "睡觉",
+        "pinyin": "shuìjiào",
+        "meaning": "sleep"
+    },
+    {
+        "hanzi": "打电话",
+        "pinyin": "dǎdiànhuà",
+        "meaning": "call up"
+    },
+    {
+        "hanzi": "做",
+        "pinyin": "zuò",
+        "meaning": "do"
+    },
+    {
+        "hanzi": "买",
+        "pinyin": "mǎi",
+        "meaning": "buy"
+    },
+    {
+        "hanzi": "开",
+        "pinyin": "kāi",
+        "meaning": "open"
+    },
+    {
+        "hanzi": "坐",
+        "pinyin": "zuò",
+        "meaning": "sit"
+    },
+    {
+        "hanzi": "住",
+        "pinyin": "zhù",
+        "meaning": "live"
+    },
+    {
+        "hanzi": "学习",
+        "pinyin": "xuéxí",
+        "meaning": "study"
+    },
+    {
+        "hanzi": "工作",
+        "pinyin": "gōngzuò",
+        "meaning": "work"
+    },
+    {
+        "hanzi": "下雨",
+        "pinyin": "xiàyǔ",
+        "meaning": "rain"
+    },
+    {
+        "hanzi": "问",
+        "pinyin": "wèn",
+        "meaning": "ask"
+    },
+    {
+        "hanzi": "走",
+        "pinyin": "zǒu",
+        "meaning": "walk"
+    },
+    {
+        "hanzi": "进",
+        "pinyin": "jìn",
+        "meaning": "enter"
+    },
+    {
+        "hanzi": "出",
+        "pinyin": "chū",
+        "meaning": "come"
+    },
+    {
+        "hanzi": "跑步",
+        "pinyin": "pǎobù",
+        "meaning": "run"
+    },
+    {
+        "hanzi": "到",
+        "pinyin": "dào",
+        "meaning": "arrive"
+    },
+    {
+        "hanzi": "穿",
+        "pinyin": "chuān",
+        "meaning": "wear"
+    },
+    {
+        "hanzi": "洗",
+        "pinyin": "xǐ",
+        "meaning": "wash"
+    },
+    {
+        "hanzi": "给",
+        "pinyin": "gěi",
+        "meaning": "give"
+    },
+    {
+        "hanzi": "找",
+        "pinyin": "zhǎo",
+        "meaning": "find"
+    },
+    {
+        "hanzi": "懂",
+        "pinyin": "dǒng",
+        "meaning": "understand"
+    },
+    {
+        "hanzi": "笑",
+        "pinyin": "xiào",
+        "meaning": "smile"
+    },
+    {
+        "hanzi": "回答",
+        "pinyin": "huídá",
+        "meaning": "answer"
+    },
+    {
+        "hanzi": "告诉",
+        "pinyin": "gàosù",
+        "meaning": "tell"
+    },
+    {
+        "hanzi": "准备",
+        "pinyin": "zhǔnbèi",
+        "meaning": "prepare"
+    },
+    {
+        "hanzi": "开始",
+        "pinyin": "kāishǐ",
+        "meaning": "begin"
+    },
+    {
+        "hanzi": "介绍",
+        "pinyin": "jièshào",
+        "meaning": "introduce"
+    },
+    {
+        "hanzi": "帮助",
+        "pinyin": "bāngzhù",
+        "meaning": "help"
+    },
+    {
+        "hanzi": "玩",
+        "pinyin": "wán",
+        "meaning": "play"
+    },
+    {
+        "hanzi": "送",
+        "pinyin": "sòng",
+        "meaning": "present"
+    },
+    {
+        "hanzi": "等",
+        "pinyin": "děng",
+        "meaning": "wait"
+    },
+    {
+        "hanzi": "让",
+        "pinyin": "ràng",
+        "meaning": "let"
+    },
+    {
+        "hanzi": "起床",
+        "pinyin": "qǐchuáng",
+        "meaning": "get up"
+    },
+    {
+        "hanzi": "唱歌",
+        "pinyin": "chànggē",
+        "meaning": "sing"
+    },
+    {
+        "hanzi": "跳舞",
+        "pinyin": "tiàowǔ",
+        "meaning": "dance"
+    },
+    {
+        "hanzi": "旅游",
+        "pinyin": "lǚyóu",
+        "meaning": "travel"
+    },
+    {
+        "hanzi": "上班",
+        "pinyin": "shàngbān",
+        "meaning": "be on duty"
+    },
+    {
+        "hanzi": "生病",
+        "pinyin": "shēngbìng",
+        "meaning": "fall ill"
+    },
+    {
+        "hanzi": "休息",
+        "pinyin": "xiūxi",
+        "meaning": "rest"
+    },
+    {
+        "hanzi": "运动",
+        "pinyin": "yùndòng",
+        "meaning": "exercise"
+    },
+    {
+        "hanzi": "游泳",
+        "pinyin": "yóuyǒng",
+        "meaning": "swim"
+    },
+    {
+        "hanzi": "踢足球",
+        "pinyin": "tīzúqiú",
+        "meaning": "play footbal"
+    },
+    {
+        "hanzi": "打篮球",
+        "pinyin": "dǎlánqiú",
+        "meaning": "play basketball"
+    },
+    {
+        "hanzi": "完",
+        "pinyin": "wán",
+        "meaning": "finish"
+    },
+    {
+        "hanzi": "爱",
+        "pinyin": "ài",
+        "meaning": "love"
+    },
+    {
+        "hanzi": "喜欢",
+        "pinyin": "xǐhuān",
+        "meaning": "love, like"
+    },
+    {
+        "hanzi": "想",
+        "pinyin": "xiǎng",
+        "meaning": "want"
+    },
+    {
+        "hanzi": "认识",
+        "pinyin": "rènshi",
+        "meaning": "know"
+    },
+    {
+        "hanzi": "觉得",
+        "pinyin": "juédé",
+        "meaning": "think"
+    },
+    {
+        "hanzi": "知道",
+        "pinyin": "zhīdào",
+        "meaning": "know"
+    },
+    {
+        "hanzi": "希望",
+        "pinyin": "xīwàng",
+        "meaning": "hope"
+    },
+    {
+        "hanzi": "会",
+        "pinyin": "huì",
+        "meaning": "can"
+    },
+    {
+        "hanzi": "能",
+        "pinyin": "néng",
+        "meaning": "can, be able to"
+    },
+    {
+        "hanzi": "可以",
+        "pinyin": "kěyǐ",
+        "meaning": "can"
+    },
+    {
+        "hanzi": "要",
+        "pinyin": "yào",
+        "meaning": "ask for"
+    },
+    {
+        "hanzi": "可能",
+        "pinyin": "kěnéng",
+        "meaning": "may"
+    },
+    {
+        "hanzi": "Adjective",
+        "pinyin": "",
+        "meaning": ""
+    },
+    {
+        "hanzi": "好",
+        "pinyin": "hǎo",
+        "meaning": "good"
+    },
+    {
+        "hanzi": "大",
+        "pinyin": "dà",
+        "meaning": "big"
+    },
+    {
+        "hanzi": "小",
+        "pinyin": "xiǎo",
+        "meaning": "small"
+    },
+    {
+        "hanzi": "多",
+        "pinyin": "duō",
+        "meaning": "many, much"
+    },
+    {
+        "hanzi": "少",
+        "pinyin": "shǎo",
+        "meaning": "few, little"
+    },
+    {
+        "hanzi": "冷",
+        "pinyin": "lěng",
+        "meaning": "cold"
+    },
+    {
+        "hanzi": "热",
+        "pinyin": "rè",
+        "meaning": "hot"
+    },
+    {
+        "hanzi": "高兴",
+        "pinyin": "gāoxìng",
+        "meaning": "happy"
+    },
+    {
+        "hanzi": "漂亮",
+        "pinyin": "piàoliàng",
+        "meaning": "beautiful"
+    },
+    {
+        "hanzi": "高",
+        "pinyin": "gāo",
+        "meaning": "tall"
+    },
+    {
+        "hanzi": "红",
+        "pinyin": "hóng",
+        "meaning": "red"
+    },
+    {
+        "hanzi": "白",
+        "pinyin": "bái",
+        "meaning": "white"
+    },
+    {
+        "hanzi": "黑",
+        "pinyin": "hēi",
+        "meaning": "black"
+    },
+    {
+        "hanzi": "忙",
+        "pinyin": "máng",
+        "meaning": "busy"
+    },
+    {
+        "hanzi": "快",
+        "pinyin": "kuài",
+        "meaning": "fast"
+    },
+    {
+        "hanzi": "慢",
+        "pinyin": "màn",
+        "meaning": "slow"
+    },
+    {
+        "hanzi": "远",
+        "pinyin": "yuǎn",
+        "meaning": "far"
+    },
+    {
+        "hanzi": "近",
+        "pinyin": "jìn",
+        "meaning": "close"
+    },
+    {
+        "hanzi": "好吃",
+        "pinyin": "hǎochī",
+        "meaning": "delicioous"
+    },
+    {
+        "hanzi": "累",
+        "pinyin": "lèi",
+        "meaning": "tire"
+    },
+    {
+        "hanzi": "长",
+        "pinyin": "cháng",
+        "meaning": "long"
+    },
+    {
+        "hanzi": "新",
+        "pinyin": "xīn",
+        "meaning": "new"
+    },
+    {
+        "hanzi": "贵",
+        "pinyin": "guì",
+        "meaning": "expensive"
+    },
+    {
+        "hanzi": "便宜",
+        "pinyin": "piányi",
+        "meaning": "cheap"
+    },
+    {
+        "hanzi": "晴",
+        "pinyin": "qíng",
+        "meaning": "fine"
+    },
+    {
+        "hanzi": "阴",
+        "pinyin": "yīn",
+        "meaning": "cloudy"
+    },
+    {
+        "hanzi": "错",
+        "pinyin": "cuò",
+        "meaning": "wrong"
+    },
+    {
+        "hanzi": "快乐",
+        "pinyin": "kuàilè",
+        "meaning": "happy"
+    }
+]
